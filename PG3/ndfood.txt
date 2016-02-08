@@ -1,0 +1,17 @@
+41.700813 -86.231905 A la Descartes (Jordan Hall of Science)
+41.696418 -86.237959 Au Bon Pain (Hesburgh Center for International Studies)
+41.702411 -86.234386 Au Bon Pain (Hesburgh Library)
+41.697184 -86.236133 Cafe Commons (Mendoza College of Business)
+41.701400 -86.241957 Cafe Poche (Bond Hall)
+41.705001 -86.234058 Cafe de Grasta (Grace Hall)
+41.698677 -86.237967 Crossings (Eck Hall of Law)
+41.700385 -86.234694 Decio Commons
+41.697338 -86.23777 Kitz Kafe (Stinson-Remick Hall of Engineering)
+41.701918 -86.23767 LaFortune Student Center
+41.696191 -86.234912 Legends of Notre Dame
+41.704433 -86.236077 North Dining Hall
+41.699441 -86.241417 Reckers
+41.697501 -86.239111 Rohr's (Morris Inn)
+41.697501 -86.239111 Sorin's (Morris Inn)
+41.699441 -86.241417 South Dining Hall
+41.700623 -86.235774 Waddick's (O'Shaughnessy Hall)
